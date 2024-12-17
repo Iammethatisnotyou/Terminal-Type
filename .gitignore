@@ -7,6 +7,7 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+lib64/
 pyvenv.cfg
 bin/
 .Python
